@@ -1,5 +1,7 @@
 # Artifical_Intelligent_Pathfinding_Robot
 
+To see the output, run main.py
+
 The challenge is to program an A* heuristic search (graph search, Rich/Knight/Tanimoto version)
 to allow an agent to compute the shortest path from a start point to a goal point that goes around obstacles.
 The scenario of this problem is that the agent is located at point A and he needs to get to point C. 
