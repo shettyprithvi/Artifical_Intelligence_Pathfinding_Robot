@@ -1,6 +1,11 @@
 # Artifical_Intelligent_Pathfinding_Robot
 
-To see the output, run main.py
+## Solution: To see the output, run main.py
+The shortest path is found by the AI Robot by finding the best and the shortest path using A-star algorithm. The heuristic is the Euclidean distance between the robot and destination.
+
+## Problem:
+
+![alt text](https://github.com/shettyprithvi/Artifical_Intelligence_Pathfinding_Robot/blob/master/ai.png)
 
 The challenge is to program an A* heuristic search (graph search, Rich/Knight/Tanimoto version)
 to allow an agent to compute the shortest path from a start point to a goal point that goes around obstacles.
