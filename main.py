@@ -26,7 +26,7 @@ state8=(-1, 1)
 ob=[]
 
 
-#Function to create the next possible steps for the robot
+#Function to create the next possible steps, for the robot
 def valid_children(start,queue,ob=ob):
     ch=[]
 

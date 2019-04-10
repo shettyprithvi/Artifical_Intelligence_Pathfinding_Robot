@@ -7,7 +7,7 @@ The shortest path is found by the AI Robot by finding the best and the shortest 
 
 ![alt text](https://github.com/shettyprithvi/Artifical_Intelligence_Pathfinding_Robot/blob/master/ai.png)
 
-The challenge is to program an A* heuristic search (graph search, Rich/Knight/Tanimoto version)
+The challenge is to program an A* (A-star) heuristic search (graph search, Rich/Knight/Tanimoto version)
 to allow an agent to compute the shortest path from a start point to a goal point that goes around obstacles.
 The scenario of this problem is that the agent is located at point A and he needs to get to point C. 
 He can move to any of a finite set of points in his environment. However, there are also a set of obstacles, 
